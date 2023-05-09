@@ -1,11 +1,14 @@
 # Full-Stack-Dev
 Month 1-6 of full stack dev 
 
+==
 
 Month 1 Basics
--HTML
--CSS
--JS
+ HTML
+ CSS
+ JS
+
+==
 
 Month 2 Frameworks
 Bootstrap
