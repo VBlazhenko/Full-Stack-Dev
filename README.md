@@ -1,5 +1,7 @@
 # Full-Stack-Dev
 Month 1-6 of full stack dev 
+Creating this repository to store my resources used to learn the following skills
+
 
 Month 1 Basics - 
 HTML
