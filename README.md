@@ -5,19 +5,22 @@ Creating this repository to store my resources used to learn the following skill
 
 Month 1 Basics - 
 <br>
-HTML
+HTML - Done
 <br>
-CSS
+CSS - Done
 <br>
-JS
+JS - In progress
 
 
 Month 2 Frameworks - 
-Bootstrap
-Tailwind
+<br>
+Bootstrap - https://www.w3schools.com/bootstrap4/
+<br>
+Tailwind - https://www.freecodecamp.org/news/learn-tailwind-css/
 
 Month 3 JS - 
-Master JS
+<br>
+Master JS - https://www.codecademy.com/learn/introduction-to-javascript
 
 Month 4 JS  - 
 React.js
