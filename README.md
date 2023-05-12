@@ -4,8 +4,11 @@ Creating this repository to store my resources used to learn the following skill
 
 
 Month 1 Basics - 
+<br>
 HTML
+<br>
 CSS
+<br>
 JS
 
 
