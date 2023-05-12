@@ -29,8 +29,11 @@ React.js - https://www.youtube.com/watch?v=bMknfKXIFA8
 Angular.js - https://www.youtube.com/watch?v=k5E2AVpwsko
 
 Month 5 
+<br>
 Learn node.js - https://www.youtube.com/watch?v=Oe421EPjeBE
 
 Month 6 DB 
+<br>
 MongoDB
+<br>
 MySQL
